@@ -93,7 +93,8 @@ else:
 ## Sample Input:
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/51b9aea1-a633-41d2-b368-054148ac6119)
 
-##Output:
+## Output:
+
 Linear Search method to match a item in a list:
 
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/d3ea632d-cfe7-474f-8265-539ccf165c10)
