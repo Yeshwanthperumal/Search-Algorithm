@@ -94,19 +94,12 @@ else:
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/51b9aea1-a633-41d2-b368-054148ac6119)
 
 ## Output:
-
-Linear Search method to match a item in a list:
-
+## Linear Search Method:
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/d3ea632d-cfe7-474f-8265-539ccf165c10)
-
-Binary Search(Iterative method):
-
+## Binary Search(Iterative):
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/3e5f61ad-e485-4124-bc1a-6ac322fb7fee)
-
-Binary Search(recursive method):
-
+## Binary Search(recursive):
 ![image](https://github.com/Yeshwanthperumal/Search-Algorithm/assets/119476088/324bfe62-5ab1-4adf-a581-60df55932bb5)
-
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
